@@ -5,3 +5,5 @@ stone - addStoneblock
 leaves - addLeavesblock
 brick - addBrickBlock
 Controls - right and left mouse hold - rotate, right mouse hold - forward.
+To run install panda 3d and run game.py.
+To install panda3d in the terminal write pip install panda3d and press enter.
